@@ -15,7 +15,6 @@
 		8B1E2A602BF5F887007D2479 /* schema.graphqls in Resources */ = {isa = PBXBuildFile; fileRef = 8B1E2A5E2BF5F887007D2479 /* schema.graphqls */; };
 		8B1E2A622BF5FA3D007D2479 /* rocketsQuery.graphql in Resources */ = {isa = PBXBuildFile; fileRef = 8B1E2A612BF5FA3D007D2479 /* rocketsQuery.graphql */; };
 		8B1E2A652BF5FADB007D2479 /* SpaceXAPI in Frameworks */ = {isa = PBXBuildFile; productRef = 8B1E2A642BF5FADB007D2479 /* SpaceXAPI */; };
-		8B1E2A692BF5FCE6007D2479 /* LaunchViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B1E2A682BF5FCE6007D2479 /* LaunchViewModel.swift */; };
 		8B1E2A6B2BF5FEAF007D2479 /* Network.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8B1E2A6A2BF5FEAF007D2479 /* Network.swift */; };
 /* End PBXBuildFile section */
 
@@ -27,7 +26,6 @@
 		8B1E2A542BF5F79D007D2479 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		8B1E2A5E2BF5F887007D2479 /* schema.graphqls */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = schema.graphqls; sourceTree = "<group>"; };
 		8B1E2A612BF5FA3D007D2479 /* rocketsQuery.graphql */ = {isa = PBXFileReference; lastKnownFileType = text; path = rocketsQuery.graphql; sourceTree = "<group>"; };
-		8B1E2A682BF5FCE6007D2479 /* LaunchViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LaunchViewModel.swift; sourceTree = "<group>"; };
 		8B1E2A6A2BF5FEAF007D2479 /* Network.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Network.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -68,7 +66,6 @@
 				8B1E2A4F2BF5F79C007D2479 /* ContentView.swift */,
 				8B1E2A512BF5F79D007D2479 /* Assets.xcassets */,
 				8B1E2A532BF5F79D007D2479 /* Preview Content */,
-				8B1E2A682BF5FCE6007D2479 /* LaunchViewModel.swift */,
 				8B1E2A6A2BF5FEAF007D2479 /* Network.swift */,
 			);
 			path = "ApolloGraphql-iOS";
@@ -174,7 +171,6 @@
 				8B1E2A6B2BF5FEAF007D2479 /* Network.swift in Sources */,
 				8B1E2A502BF5F79C007D2479 /* ContentView.swift in Sources */,
 				8B1E2A4E2BF5F79C007D2479 /* ApolloGraphql_iOSApp.swift in Sources */,
-				8B1E2A692BF5FCE6007D2479 /* LaunchViewModel.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
